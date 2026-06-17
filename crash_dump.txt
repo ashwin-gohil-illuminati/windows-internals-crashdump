@@ -1,0 +1,7 @@
+[18:44:58]Exception: C0000005.ACCESS_VIOLATION
+[18:44:58]Unhandled: C0000005.ACCESS_VIOLATION
+[18:44:58]Dump 1 info: Available space: 42025717760
+[18:44:58]Dump 1 initiated: C:\TOOLS\SysInternals\crash_generator.exe_260617_184458.dmp
+[18:44:58]Dump 1 writing: Estimated dump file size is 9 MB.
+[18:44:58]Dump 1 complete: 9 MB written in 1.2 seconds
+[18:44:59]Dump count reached.
